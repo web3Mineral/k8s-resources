@@ -6,6 +6,3 @@ spec:
   containers:
   - name: my-nginx-container
     image: nginx:latest
-    ports:
-    - containerPort: 80
-    protocol: TCP
